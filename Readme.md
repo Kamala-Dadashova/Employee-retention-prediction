@@ -25,7 +25,7 @@ The following Python libraries were used in this project:
 
 After installing the required libraries, you can run the scripts provided in this repository. The main scripts include:
 
-- `KD_Employee retention project.`: Contains the code for data analysis, feature engineering, model construction and model evaluation.
+- `KD_Employee retention project.ipynb`: Contains the code for data analysis, feature engineering, model construction and model evaluation.
 - `HR_data.csv`: Data
 - `Exective summary about employee retention.pdf`: Outline results and provide insights based on the analysis.
 
