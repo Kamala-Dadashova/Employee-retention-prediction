@@ -8,7 +8,7 @@ This project aims to predict employee turnover by analyzing a dataset of 14,999 
 
 - **Data Analysis and Feature Engineering:** Conducted in-depth exploratory data analysis (EDA) and advanced feature engineering to enhance model performance.
 - **Machine Learning Models:** Developed and fine-tuned models including Random Forest, Decision Tree, and Logistic Regression.
-- **Model Optimization:** Utilized grid search and cross-validation for hyperparameter optimization, resulting in a highly accurate and robust model.
+- **Model Optimization:** Utilized grid search and cross-validation for hyperparameter optimization, resulting in a relatively highly accurate model.
 
 
 ## Libraries Used
