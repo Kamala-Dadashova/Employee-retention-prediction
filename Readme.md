@@ -11,7 +11,7 @@ This project aims to predict employee turnover by analyzing a dataset of 14,999 
 - **Model Optimization:** Utilized grid search and cross-validation for hyperparameter optimization, resulting in a relatively highly accurate model.
 
 
-## Libraries Used
+## Libraries 
 
 The following Python libraries were used in this project:
 
@@ -23,7 +23,7 @@ The following Python libraries were used in this project:
 
 ## Usage
 
-After installing the required libraries, you can run the scripts provided in this repository. The main scripts include:
+After installing the required libraries, you can run the script provided in this repository. Files included: 
 
 - `KD_Employee retention project.ipynb`: Contains the code for data analysis, feature engineering, model construction and model evaluation.
 - `HR_data.csv`: Data
